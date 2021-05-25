@@ -1,0 +1,58 @@
+{
+  "id": "2372851",
+  "name": "Tabbar实例",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30438",
+      "name": "shop",
+      "font_class": "shop",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "35552",
+      "name": "collect",
+      "font_class": "collect",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12761862",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "673676",
+      "name": "YY_classify_2",
+      "font_class": "yyclassify2",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12309702",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "14553258",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "17964062",
+      "name": "Profile",
+      "font_class": "Profile",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}
