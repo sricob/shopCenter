@@ -2,9 +2,9 @@
   <div class="carousel-wrapper">
     <van-swipe :autoplay="2000" class="my-swipe" lazy-render :stop-propagation="false" >
       <van-swipe-item v-for="(img, index) in imgs" :key="index">
-        <a :href="img.link">
+        <!-- <a :href="img.link"> -->
           <img :src="img.image" @load="imgLoad"/>
-        </a>
+        <!-- </a> -->
       </van-swipe-item>
     </van-swipe>
   </div>

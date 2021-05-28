@@ -29,7 +29,7 @@ export default {
       observeDOM:true,
       observeImage:true
     })
-
+    // console.log(this.scroll)
     this.scroll.on("scroll", (position) => {
       this.$emit("ScrollPosition",position)
     })
